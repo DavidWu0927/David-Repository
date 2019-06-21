@@ -2,9 +2,6 @@ package maven_01;
 
 public class Test01 {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
-	}
+	//222222222222222
 
 }
